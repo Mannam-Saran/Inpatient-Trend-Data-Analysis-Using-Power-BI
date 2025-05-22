@@ -70,7 +70,7 @@ Cards showing minimum, maximum, and average visit percentages across all groups.
 
 ## Dashboard Access
 
-![Dashboard](images/Inpatient_Trend_Analysis.jpg)
+![Dashboard](images/Inpatient_Trend_Analysis_QR.png)
 
 ---
 
