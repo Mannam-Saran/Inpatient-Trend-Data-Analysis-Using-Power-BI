@@ -63,9 +63,9 @@ Cards showing minimum, maximum, and average visit percentages across all groups.
 
 ## Dashboard Screenshots
 
-![Inpatient Trend Analysis Dashboard](images/Inpatient Trend Data Analysis in Chicago.png)    
-![Visit Type Distribution](images/Respiratory Visit Trends by Demographic Group and Illness Type.png)
-![Key Insights](images/Key Insights.png)
+![Inpatient Trend Analysis Dashboard](images/Inpatient_Trend_Data_Analysis_in_Chicago.png)    
+![Visit Type Distribution](images/Respiratory_Visit_Trends_by_Demographic_Group.png)
+![Key Insights](images/Key_Insights.png)
 
 ---
 
