@@ -16,9 +16,10 @@ Inpatient-Trend-Analysis/
 ├── PowerBI/
 │   └── Inpatient_Trend_Analysis.pbix # Power BI dashboard file
 ├── images/
-│   ├── Inpatient_Trend_Analysis_Dashboard.png
-    ├── Inpatient_Trend_Analysis_QR.jpg
-    └── Respiratory_Visit_Trends.png 
+│   ├── Inpatient_Trend_Data_Analysis_in_Chicago.png
+│   ├── Inpatient_Trend_Analysis_QR.jpg
+│   ├── Key_Insights.png
+│   └── Respiratory_Visit_Trends_by_Demographic_Group.png
 ├── README.md
 └── .gitignore
 ```
